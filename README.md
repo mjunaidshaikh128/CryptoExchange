@@ -1,70 +1,7 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![assignment 1 screenshots react](https://github.com/mjunaidshaikh128/CryptoExchange/assets/115004219/9a01566b-c2d4-4c9e-a4a0-8dffb4f02952)
+![Screenshot 2023-05-28 161153](https://github.com/mjunaidshaikh128/CryptoExchange/assets/115004219/aeb75caf-4929-4af9-b44f-2d7c1b9db939)
+![Screenshot 2023-05-28 161243](https://github.com/mjunaidshaikh128/CryptoExchange/assets/115004219/b146ba3e-a99b-44d6-bb92-7bd5d0b12f51)
+![Screenshot 2023-05-28 161354](https://github.com/mjunaidshaikh128/CryptoExchange/assets/115004219/8d3e10f4-3130-4734-a767-36c5a80d7882)
+![Screenshot 2023-05-28 161501](https://github.com/mjunaidshaikh128/CryptoExchange/assets/115004219/6ca779e8-8b93-4032-b6cf-62a8e2b0da1e)
+![Screenshot 2023-05-28 161743](https://github.com/mjunaidshaikh128/CryptoExchange/assets/115004219/25b82a8d-4094-4e2d-9335-543db664d709)
+![Screenshot 2023-05-28 161812](https://github.com/mjunaidshaikh128/CryptoExchange/assets/115004219/a4f3b44c-1ed8-4c00-9aec-5e45d443a3cd)
